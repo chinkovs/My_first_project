@@ -124,7 +124,7 @@ def save_to_file():
 
 def main():
 
-    for stake in range(100,1800,100):
+    for stake in range(100,1800,100): #would it be a time, when we'll make a stake 1900?
         make_list()
 
         modify_list(stake)
