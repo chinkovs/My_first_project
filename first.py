@@ -5,6 +5,8 @@ def make_list():
 def main_loop():
 	print("Hello")
 	make_list()
+	print("First change")
+	print("Second change")
 	
 
 if __name__ = "__main__":
